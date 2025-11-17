@@ -1,7 +1,7 @@
 
 <h1>👨‍💻 Thiago Assunção Aires Moreira</h1>
 
-<p><strong>Data Scientist & Data Engineer</strong> | Python, Spark, AWS<br>
+<p><strong>Data Scientist & Data Analyst</strong> <br>
 Transforming data into actionable insights and scalable solutions.</p>
 
 <hr>
@@ -19,7 +19,7 @@ My Portfolio ! https://sites.google.com/view/portfolio-do-thiago?usp=sharing
 <hr>
 
 <h2>📌 About Me</h2>
-<p>I am a results-driven data professional specializing in <strong>Data Science</strong> and <strong>Data Engineering</strong>.<br>
+<p>I am a results-driven data professional specializing in <strong>Data Science</strong> and <strong>Data Analyst</strong>.<br>
 My core strength lies in designing robust data pipelines and deploying machine learning models in production.<br>
 I am committed to writing clean, scalable code and building solutions that support real business impact.</p>
 
@@ -27,7 +27,7 @@ I am committed to writing clean, scalable code and building solutions that suppo
 
 <h2>🛠️ Skills</h2>
 <ul>
-<li>💻 <strong>Languages:</strong> Python, SQL, Java</li>
+<li>💻 <strong>Languages:</strong> Python, SQL, PowerBi</li>
 <li>📊 <strong>Data & ML Tools:</strong> Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch</li>
 <li>🗄️ <strong>Databases & Big Data:</strong> PostgreSQL, MySQL, MongoDB, Apache Spark, Hadoop, Brmodelo</li>
 <li>☁️ <strong>Cloud & DevOps:</strong> AWS, GCP, Docker, Kubernetes, Airflow, Linux</li>
