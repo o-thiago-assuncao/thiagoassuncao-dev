@@ -29,8 +29,7 @@ I am committed to writing clean, scalable code and building solutions that suppo
 <ul>
 <li>💻 <strong>Languages:</strong> Python, SQL, PowerBi</li>
 <li>📊 <strong>Data & ML Tools:</strong> Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch</li>
-<li>🗄️ <strong>Databases & Big Data:</strong> PostgreSQL, MySQL, MongoDB, Apache Spark, Hadoop, Brmodelo</li>
-<li>☁️ <strong>Cloud & DevOps:</strong> AWS, GCP, Docker, Kubernetes, Airflow, Linux</li>
+<li>🗄️ <strong>Databases & Big Data:</strong>  MySQL, Brmodelo</li>
 </ul>
 
 <hr>
